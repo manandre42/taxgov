@@ -1,0 +1,5 @@
+{
+  "name": "TaxiGov Control",
+  "description": "Uma plataforma integrada para cadastro de taxistas e fiscalização de trânsito inteligente, utilizando IA para análise de rotas e conformidade.",
+  "requestFramePermissions": []
+}
